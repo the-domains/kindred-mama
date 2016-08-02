@@ -1,14 +1,15 @@
 layout_spectrum: 0.3961850027553737
-typography_spectrum: 0.2936468571424484
+typography_spectrum: 0.20265323645435274
 color:
-  brandStrength: 0.43006308982148767
-  lightness: 0.9491945216432214
-  saturation: 0.9821453036274761
-  rhythmicContrast: 0.10032661352306604
+  brandStrength: 0.9241533661261201
+  lightness: 0.45427508233115077
+  saturation: 0.7316908452194184
+  rhythmicContrast: 0.4858242282643914
   brandColors:
-    - '#2E2E2E'
-    - '#6A6A6A'
-    - '#8C8C8C'
-    - '#DBDBDB'
-    - '#B1B1B1'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Kindred Mama
+title: Kindred Mama
