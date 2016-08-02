@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T21:29:38.734Z'
+datePublished: '2016-08-02T21:32:15.343Z'
 sourcePath: >-
   _posts/2016-04-16-finlandia-caviar-shop-and-restaurant-helsinki-finland-or-tr.md
 inFeed: true
@@ -19,27 +19,18 @@ keywords:
   - homey
   - joanna
 related: []
-author:
-  - name: ''
-    url: ''
-dateModified: '2016-08-02T21:29:38.360Z'
-title: 'Finlandia Caviar Shop and Restaurant, Helsinki, Finland '
+author: []
+via: {}
+dateModified: '2016-08-02T21:32:14.907Z'
+title: ''
 app_links: []
-publisher:
-  name: Wallpaper*
-  domain: www.wallpaper.com
-  url: 'http://www.wallpaper.com'
-  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
-description: >-
-  In designing a space that would be devoted primarily to the consumption of
-  caviar, Helsinki-based designer Joanna Laajisto was careful to avoid clichés
-  of outré parties, fur coats and blinding bling.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Finlandia Caviar Shop and Restaurant, Helsinki, Finland </h1><p>In designing a space that would be devoted primarily to the consumption of caviar, Helsinki-based designer Joanna Laajisto was careful to avoid clichés of outré parties, fur coats and blinding bling.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c8437362b3171b8de06740c000ce5c4fbf34d9d.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/452a8da1-e1e8-4ea5-bdf9-2840c1ac9883.jpg)
